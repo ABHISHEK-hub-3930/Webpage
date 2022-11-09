@@ -6,7 +6,7 @@ front end = html,css,js;
 
 back end =nodejs;
 
-database =mysql
+database =mysql;
 
 To run this project, you will need to add the following environment variables to your .env file
 
