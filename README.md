@@ -2,7 +2,7 @@ Xenon
 It's a Project which cover all domain of Web development like frontend ,Backend and database flow conectivity i.e. Login and Logout flow which will be connected with Database.
 
 Technology
-front end = html,css,js;
+front end = html,css;
 
 back end =nodejs;
 
